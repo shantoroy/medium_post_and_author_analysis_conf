@@ -1,0 +1,155 @@
+
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.065*"contract" + 0.055*"smart" + 0.040*"ethereum" + 0.027*"truffl" + 0.025*"part" + 0.024*"solid" + 0.018*"use" + 0.017*"dapp" + 0.013*"2" + 0.013*"1"
+Topic: 1 ---- Words: 0.071*"metamask" + 0.041*"token" + 0.026*"wallet" + 0.021*"ethereum" + 0.017*"erc20" + 0.015*"blockchain" + 0.010*"web" + 0.009*"get" + 0.009*"use" + 0.007*"start"
+Topic: 2 ---- Words: 0.033*"truffl" + 0.032*"solid" + 0.009*"product" + 0.008*"updat" + 0.008*"librari" + 0.008*"network" + 0.007*"erc20" + 0.007*"web3" + 0.006*"token" + 0.005*"2018"
+Topic: 3 ---- Words: 0.086*"contract" + 0.079*"smart" + 0.017*"solid" + 0.017*"develop" + 0.014*"web3" + 0.008*"new" + 0.007*"secur" + 0.007*"audit" + 0.007*"neo" + 0.007*"platform"
+Topic: 4 ---- Words: 0.035*"truffl" + 0.027*"solid" + 0.023*"ethereum" + 0.011*"releas" + 0.008*"test" + 0.008*"web" + 0.007*"use" + 0.007*"decentr" + 0.006*"new" + 0.006*"audit"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 6
+
+
+Topic: 0 ---- Words: 0.057*"metamask" + 0.036*"solid" + 0.022*"ethereum" + 0.018*"part" + 0.017*"use" + 0.016*"truffl" + 0.014*"wallet" + 0.014*"token" + 0.014*"start" + 0.012*"get"
+Topic: 1 ---- Words: 0.116*"contract" + 0.099*"smart" + 0.027*"solid" + 0.021*"ethereum" + 0.017*"test" + 0.016*"part" + 0.014*"use" + 0.012*"truffl" + 0.011*"1" + 0.010*"metamask"
+Topic: 2 ---- Words: 0.058*"truffl" + 0.023*"audit" + 0.016*"solid" + 0.010*"blockchain" + 0.008*"test" + 0.007*"white" + 0.006*"ethereum" + 0.006*"develop" + 0.006*"network" + 0.006*"review"
+Topic: 3 ---- Words: 0.048*"contract" + 0.045*"smart" + 0.033*"ethereum" + 0.028*"truffl" + 0.018*"metamask" + 0.017*"wallet" + 0.015*"guid" + 0.012*"solid" + 0.012*"develop" + 0.010*"deploy"
+Topic: 4 ---- Words: 0.069*"token" + 0.027*"erc20" + 0.014*"ethereum" + 0.013*"web" + 0.012*"metamask" + 0.011*"develop" + 0.011*"launch" + 0.009*"open" + 0.009*"introduc" + 0.009*"30"
+Topic: 5 ---- Words: 0.031*"web3" + 0.023*"dapp" + 0.022*"ethereum" + 0.016*"build" + 0.014*"solid" + 0.013*"announc" + 0.011*"summit" + 0.010*"metamask" + 0.010*"use" + 0.009*"truffl"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 7
+
+
+Topic: 0 ---- Words: 0.070*"token" + 0.038*"erc20" + 0.030*"metamask" + 0.018*"new" + 0.017*"wallet" + 0.016*"web" + 0.012*"creat" + 0.012*"bug" + 0.011*"30" + 0.010*"introduc"
+Topic: 1 ---- Words: 0.080*"contract" + 0.065*"smart" + 0.050*"solid" + 0.041*"ethereum" + 0.034*"truffl" + 0.014*"develop" + 0.013*"blockchain" + 0.012*"test" + 0.012*"use" + 0.010*"part"
+Topic: 2 ---- Words: 0.018*"decentr" + 0.014*"blockchain" + 0.008*"report" + 0.008*"exchang" + 0.007*"network" + 0.007*"nkn" + 0.007*"global" + 0.007*"scale" + 0.006*"updat" + 0.006*"verif"
+Topic: 3 ---- Words: 0.065*"contract" + 0.061*"smart" + 0.037*"part" + 0.029*"ethereum" + 0.014*"metamask" + 0.014*"develop" + 0.011*"token" + 0.011*"wallet" + 0.010*"neo" + 0.010*"2"
+Topic: 4 ---- Words: 0.050*"contract" + 0.047*"smart" + 0.044*"truffl" + 0.017*"ethereum" + 0.016*"web3" + 0.013*"deploy" + 0.013*"metamask" + 0.012*"use" + 0.008*"network" + 0.007*"blockchain"
+Topic: 5 ---- Words: 0.058*"metamask" + 0.036*"solid" + 0.024*"dapp" + 0.019*"use" + 0.013*"build" + 0.012*"guid" + 0.011*"develop" + 0.010*"truffl" + 0.009*"token" + 0.008*"part"
+Topic: 6 ---- Words: 0.021*"truffl" + 0.020*"vyper" + 0.019*"solid" + 0.019*"metamask" + 0.018*"ethereum" + 0.009*"support" + 0.007*"1" + 0.007*"3" + 0.006*"bancor" + 0.006*"walkthrough"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 8
+
+
+Topic: 0 ---- Words: 0.034*"contract" + 0.033*"ethereum" + 0.031*"smart" + 0.013*"introduc" + 0.012*"solid" + 0.012*"program" + 0.011*"app" + 0.011*"5" + 0.010*"web3" + 0.008*"foundat"
+Topic: 1 ---- Words: 0.036*"wallet" + 0.021*"metamask" + 0.019*"ethereum" + 0.019*"solid" + 0.016*"erc20" + 0.014*"new" + 0.011*"truffl" + 0.011*"list" + 0.009*"decentr" + 0.008*"part"
+Topic: 2 ---- Words: 0.019*"solid" + 0.011*"truffl" + 0.011*"chang" + 0.011*"beta" + 0.010*"network" + 0.010*"announc" + 0.008*"test" + 0.006*"contest" + 0.006*"introduc" + 0.006*"public"
+Topic: 3 ---- Words: 0.052*"contract" + 0.049*"smart" + 0.027*"audit" + 0.016*"first" + 0.016*"solid" + 0.015*"ethereum" + 0.013*"secur" + 0.010*"vyper" + 0.008*"token" + 0.007*"tutori"
+Topic: 4 ---- Words: 0.138*"metamask" + 0.036*"use" + 0.034*"token" + 0.018*"wallet" + 0.017*"guid" + 0.010*"step" + 0.010*"web3" + 0.009*"instal" + 0.008*"add" + 0.008*"ethereum"
+Topic: 5 ---- Words: 0.045*"web" + 0.035*"30" + 0.013*"token" + 0.013*"solid" + 0.010*"make" + 0.009*"network" + 0.008*"ethereum" + 0.007*"updat" + 0.007*"polkadot" + 0.007*"explain"
+Topic: 6 ---- Words: 0.101*"contract" + 0.086*"smart" + 0.031*"solid" + 0.027*"ethereum" + 0.021*"truffl" + 0.021*"token" + 0.020*"develop" + 0.017*"part" + 0.016*"blockchain" + 0.013*"test"
+Topic: 7 ---- Words: 0.089*"truffl" + 0.033*"ethereum" + 0.029*"dapp" + 0.025*"solid" + 0.022*"part" + 0.015*"build" + 0.014*"3" + 0.013*"2" + 0.013*"use" + 0.010*"develop"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 9
+
+
+Topic: 0 ---- Words: 0.076*"metamask" + 0.062*"token" + 0.040*"wallet" + 0.020*"build" + 0.020*"use" + 0.019*"erc20" + 0.018*"ethereum" + 0.014*"blockchain" + 0.010*"1" + 0.009*"part"
+Topic: 1 ---- Words: 0.033*"ethereum" + 0.020*"token" + 0.017*"part" + 0.017*"new" + 0.013*"standard" + 0.013*"protocol" + 0.011*"blockchain" + 0.011*"erc20" + 0.009*"open" + 0.008*"solid"
+Topic: 2 ---- Words: 0.064*"ethereum" + 0.054*"metamask" + 0.037*"dapp" + 0.028*"develop" + 0.021*"truffl" + 0.019*"use" + 0.012*"build" + 0.011*"blockchain" + 0.009*"solid" + 0.009*"step"
+Topic: 3 ---- Words: 0.043*"part" + 0.032*"develop" + 0.026*"solid" + 0.024*"ethereum" + 0.019*"get" + 0.018*"start" + 0.012*"use" + 0.012*"vyper" + 0.011*"2" + 0.011*"updat"
+Topic: 4 ---- Words: 0.172*"contract" + 0.154*"smart" + 0.032*"truffl" + 0.025*"solid" + 0.021*"ethereum" + 0.017*"deploy" + 0.013*"test" + 0.012*"secur" + 0.012*"audit" + 0.011*"first"
+Topic: 5 ---- Words: 0.046*"solid" + 0.016*"app" + 0.013*"truffl" + 0.010*"wave" + 0.009*"develop" + 0.008*"test" + 0.007*"decentr" + 0.007*"lesson" + 0.007*"explain" + 0.007*"metamask"
+Topic: 6 ---- Words: 0.048*"truffl" + 0.028*"web" + 0.024*"30" + 0.012*"network" + 0.011*"use" + 0.010*"ethereum" + 0.009*"test" + 0.009*"build" + 0.006*"solid" + 0.006*"buy"
+Topic: 7 ---- Words: 0.014*"erc20" + 0.012*"announc" + 0.012*"truffl" + 0.010*"foundat" + 0.010*"bitcoin" + 0.010*"introduc" + 0.010*"web3" + 0.010*"2018" + 0.007*"coin" + 0.007*"airdrop"
+Topic: 8 ---- Words: 0.054*"solid" + 0.044*"web3" + 0.016*"truffl" + 0.016*"summit" + 0.012*"part" + 0.012*"function" + 0.011*"code" + 0.008*"vote" + 0.008*"testnet" + 0.008*"work"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 10
+
+
+Topic: 0 ---- Words: 0.063*"metamask" + 0.041*"token" + 0.030*"solid" + 0.030*"truffl" + 0.027*"use" + 0.025*"web3" + 0.019*"ethereum" + 0.011*"summit" + 0.010*"part" + 0.010*"set"
+Topic: 1 ---- Words: 0.046*"web" + 0.034*"30" + 0.027*"truffl" + 0.010*"new" + 0.010*"releas" + 0.009*"token" + 0.008*"beta" + 0.007*"minut" + 0.007*"understand" + 0.007*"bounti"
+Topic: 2 ---- Words: 0.024*"new" + 0.021*"solid" + 0.019*"protocol" + 0.017*"open" + 0.017*"wallet" + 0.014*"blockchain" + 0.011*"announc" + 0.010*"metamask" + 0.010*"avail" + 0.008*"revert"
+Topic: 3 ---- Words: 0.026*"metamask" + 0.019*"web3" + 0.016*"foundat" + 0.013*"solid" + 0.011*"introduc" + 0.010*"test" + 0.009*"ethereum" + 0.009*"truffl" + 0.009*"use" + 0.009*"exchang"
+Topic: 4 ---- Words: 0.116*"contract" + 0.103*"smart" + 0.043*"ethereum" + 0.039*"truffl" + 0.019*"develop" + 0.019*"deploy" + 0.017*"dapp" + 0.017*"solid" + 0.016*"build" + 0.016*"first"
+Topic: 5 ---- Words: 0.024*"wallet" + 0.020*"metamask" + 0.011*"truffl" + 0.010*"use" + 0.009*"ethereum" + 0.009*"hackathon" + 0.007*"app" + 0.007*"compat" + 0.007*"new" + 0.006*"support"
+Topic: 6 ---- Words: 0.098*"contract" + 0.083*"smart" + 0.047*"part" + 0.024*"ethereum" + 0.022*"secur" + 0.019*"2" + 0.018*"1" + 0.016*"audit" + 0.015*"develop" + 0.013*"3"
+Topic: 7 ---- Words: 0.064*"solid" + 0.023*"truffl" + 0.017*"ethereum" + 0.017*"tutori" + 0.016*"test" + 0.015*"network" + 0.013*"metamask" + 0.011*"function" + 0.011*"dapp" + 0.008*"way"
+Topic: 8 ---- Words: 0.042*"token" + 0.040*"erc20" + 0.021*"metamask" + 0.019*"wallet" + 0.016*"solid" + 0.013*"network" + 0.013*"truffl" + 0.012*"program" + 0.012*"creat" + 0.011*"introduct"
+Topic: 9 ---- Words: 0.035*"metamask" + 0.031*"blockchain" + 0.029*"ethereum" + 0.018*"use" + 0.014*"truffl" + 0.009*"ga" + 0.009*"payment" + 0.008*"solid" + 0.008*"dapp" + 0.008*"make"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 11
+
+
+Topic: 0 ---- Words: 0.036*"truffl" + 0.020*"solid" + 0.018*"web3" + 0.015*"blockchain" + 0.014*"metamask" + 0.013*"open" + 0.013*"2018" + 0.012*"get" + 0.010*"start" + 0.008*"buy"
+Topic: 1 ---- Words: 0.055*"web3" + 0.017*"announc" + 0.015*"part" + 0.015*"releas" + 0.015*"protocol" + 0.014*"foundat" + 0.013*"introduc" + 0.013*"summit" + 0.010*"truffle" + 0.010*"beta"
+Topic: 2 ---- Words: 0.046*"solid" + 0.042*"metamask" + 0.027*"token" + 0.018*"use" + 0.018*"set" + 0.012*"truffl" + 0.009*"wallet" + 0.008*"world" + 0.008*"payment" + 0.007*"updat"
+Topic: 3 ---- Words: 0.186*"contract" + 0.163*"smart" + 0.038*"ethereum" + 0.023*"solid" + 0.023*"part" + 0.020*"develop" + 0.014*"secur" + 0.013*"deploy" + 0.013*"vyper" + 0.012*"first"
+Topic: 4 ---- Words: 0.049*"contract" + 0.044*"smart" + 0.031*"30" + 0.027*"web" + 0.011*"design" + 0.010*"platform" + 0.010*"blockchain" + 0.009*"new" + 0.008*"decentr" + 0.007*"learn"
+Topic: 5 ---- Words: 0.036*"token" + 0.035*"erc20" + 0.028*"guid" + 0.021*"audit" + 0.017*"metamask" + 0.016*"updat" + 0.013*"bug" + 0.010*"commun" + 0.009*"report" + 0.009*"bounti"
+Topic: 6 ---- Words: 0.045*"truffl" + 0.030*"new" + 0.026*"solid" + 0.020*"ethereum" + 0.020*"part" + 0.017*"standard" + 0.016*"introduct" + 0.016*"program" + 0.010*"2" + 0.010*"token"
+Topic: 7 ---- Words: 0.034*"solid" + 0.031*"truffl" + 0.016*"work" + 0.013*"tutori" + 0.013*"ethereum" + 0.011*"token" + 0.011*"develop" + 0.011*"creat" + 0.011*"white" + 0.009*"make"
+Topic: 8 ---- Words: 0.110*"metamask" + 0.038*"wallet" + 0.026*"ethereum" + 0.018*"use" + 0.016*"token" + 0.011*"instal" + 0.009*"step" + 0.008*"transact" + 0.008*"mobil" + 0.007*"2"
+Topic: 9 ---- Words: 0.078*"truffl" + 0.047*"ethereum" + 0.040*"use" + 0.035*"dapp" + 0.031*"build" + 0.024*"solid" + 0.018*"develop" + 0.018*"blockchain" + 0.017*"metamask" + 0.017*"test"
+Topic: 10 ---- Words: 0.030*"ethereum" + 0.021*"solid" + 0.018*"list" + 0.018*"erc20" + 0.015*"wallet" + 0.015*"token" + 0.015*"blockchain" + 0.013*"platform" + 0.012*"support" + 0.010*"new"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 12
+
+
+Topic: 0 ---- Words: 0.031*"30" + 0.030*"web" + 0.022*"test" + 0.014*"truffl" + 0.013*"protocol" + 0.011*"bancor" + 0.010*"solid" + 0.009*"safe" + 0.009*"polkadot" + 0.009*"build"
+Topic: 1 ---- Words: 0.028*"truffl" + 0.021*"new" + 0.015*"white" + 0.015*"day" + 0.014*"network" + 0.010*"wallet" + 0.010*"ethereum" + 0.009*"blockchain" + 0.008*"dapp" + 0.008*"use"
+Topic: 2 ---- Words: 0.023*"ethereum" + 0.023*"solid" + 0.021*"web3" + 0.015*"announc" + 0.012*"dapp" + 0.009*"intro" + 0.008*"foundat" + 0.007*"develop" + 0.007*"truffl" + 0.006*"make"
+Topic: 3 ---- Words: 0.071*"metamask" + 0.053*"wallet" + 0.035*"token" + 0.018*"truffl" + 0.013*"creat" + 0.010*"ethereum" + 0.010*"add" + 0.009*"develop" + 0.009*"buy" + 0.009*"myetherwallet"
+Topic: 4 ---- Words: 0.022*"truffl" + 0.020*"ethereum" + 0.012*"blockchain" + 0.009*"updat" + 0.007*"ico" + 0.007*"2018" + 0.007*"practic" + 0.007*"open" + 0.007*"save" + 0.007*"think"
+Topic: 5 ---- Words: 0.177*"contract" + 0.153*"smart" + 0.038*"ethereum" + 0.026*"truffl" + 0.020*"deploy" + 0.018*"test" + 0.018*"solid" + 0.014*"first" + 0.013*"build" + 0.011*"blockchain"
+Topic: 6 ---- Words: 0.101*"metamask" + 0.039*"ethereum" + 0.036*"part" + 0.033*"2" + 0.031*"truffl" + 0.029*"dapp" + 0.028*"use" + 0.019*"guid" + 0.016*"build" + 0.016*"3"
+Topic: 7 ---- Words: 0.046*"token" + 0.020*"part" + 0.019*"ethereum" + 0.016*"truffl" + 0.013*"blockchain" + 0.013*"build" + 0.011*"metamask" + 0.010*"launch" + 0.010*"1" + 0.009*"erc20"
+Topic: 8 ---- Words: 0.047*"updat" + 0.041*"audit" + 0.017*"secur" + 0.015*"introduct" + 0.013*"wallet" + 0.012*"truffl" + 0.011*"erc20" + 0.010*"exchang" + 0.010*"decentr" + 0.010*"commun"
+Topic: 9 ---- Words: 0.073*"contract" + 0.068*"smart" + 0.035*"solid" + 0.023*"develop" + 0.019*"ethereum" + 0.019*"start" + 0.019*"part" + 0.019*"use" + 0.016*"get" + 0.012*"neo"
+Topic: 10 ---- Words: 0.090*"solid" + 0.042*"token" + 0.031*"erc20" + 0.022*"truffl" + 0.010*"part" + 0.010*"1" + 0.009*"standard" + 0.009*"librari" + 0.008*"creat" + 0.008*"ga"
+Topic: 11 ---- Words: 0.030*"ethereum" + 0.030*"web3" + 0.028*"solid" + 0.020*"vyper" + 0.016*"truffl" + 0.015*"use" + 0.013*"bounti" + 0.012*"summit" + 0.011*"secur" + 0.011*"token"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 13
+
+
+Topic: 0 ---- Words: 0.092*"contract" + 0.092*"smart" + 0.072*"truffl" + 0.029*"deploy" + 0.022*"ethereum" + 0.021*"audit" + 0.013*"guid" + 0.013*"use" + 0.011*"3" + 0.009*"network"
+Topic: 1 ---- Words: 0.045*"metamask" + 0.017*"smart" + 0.016*"contract" + 0.014*"new" + 0.013*"launch" + 0.013*"wallet" + 0.012*"use" + 0.010*"connect" + 0.009*"way" + 0.009*"token"
+Topic: 2 ---- Words: 0.062*"contract" + 0.056*"ethereum" + 0.048*"smart" + 0.045*"develop" + 0.033*"truffl" + 0.032*"dapp" + 0.031*"solid" + 0.030*"blockchain" + 0.025*"part" + 0.022*"2"
+Topic: 3 ---- Words: 0.044*"contract" + 0.040*"smart" + 0.025*"solid" + 0.014*"secur" + 0.011*"first" + 0.010*"ga" + 0.010*"one" + 0.009*"ethereum" + 0.008*"revert" + 0.008*"analysi"
+Topic: 4 ---- Words: 0.029*"new" + 0.020*"token" + 0.015*"solid" + 0.014*"bug" + 0.010*"erc20" + 0.010*"web3" + 0.009*"multipl" + 0.009*"hackathon" + 0.009*"cryptocurr" + 0.007*"announc"
+Topic: 5 ---- Words: 0.058*"contract" + 0.046*"smart" + 0.035*"web" + 0.029*"30" + 0.023*"solid" + 0.019*"write" + 0.017*"test" + 0.017*"ethereum" + 0.013*"part" + 0.012*"learn"
+Topic: 6 ---- Words: 0.051*"contract" + 0.050*"smart" + 0.026*"part" + 0.021*"truffl" + 0.020*"updat" + 0.016*"develop" + 0.016*"neo" + 0.011*"solid" + 0.010*"1" + 0.010*"product"
+Topic: 7 ---- Words: 0.058*"web3" + 0.045*"erc20" + 0.034*"token" + 0.033*"wallet" + 0.027*"introduc" + 0.027*"metamask" + 0.018*"ethereum" + 0.017*"summit" + 0.016*"build" + 0.014*"support"
+Topic: 8 ---- Words: 0.053*"solid" + 0.037*"truffl" + 0.017*"part" + 0.017*"3" + 0.013*"token" + 0.009*"contract" + 0.008*"zeppelinsolidity" + 0.008*"vote" + 0.008*"buy" + 0.008*"test"
+Topic: 9 ---- Words: 0.157*"metamask" + 0.025*"use" + 0.018*"wallet" + 0.018*"guid" + 0.016*"solid" + 0.012*"monthli" + 0.012*"set" + 0.011*"updat" + 0.010*"tutori" + 0.010*"wave"
+Topic: 10 ---- Words: 0.048*"ethereum" + 0.039*"contract" + 0.033*"smart" + 0.025*"token" + 0.020*"use" + 0.019*"metamask" + 0.016*"wallet" + 0.011*"program" + 0.011*"part" + 0.010*"solid"
+Topic: 11 ---- Words: 0.020*"contract" + 0.017*"transfer" + 0.017*"smart" + 0.016*"solid" + 0.012*"use" + 0.011*"decentr" + 0.011*"exchang" + 0.010*"platform" + 0.009*"ethereum" + 0.009*"code"
+Topic: 12 ---- Words: 0.062*"token" + 0.044*"solid" + 0.028*"ethereum" + 0.013*"test" + 0.011*"librari" + 0.011*"1" + 0.010*"metamask" + 0.010*"code" + 0.010*"use" + 0.009*"releas"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 14
+
+
+Topic: 0 ---- Words: 0.038*"truffl" + 0.023*"token" + 0.016*"blockchain" + 0.016*"ethereum" + 0.015*"solid" + 0.012*"protocol" + 0.011*"test" + 0.011*"buy" + 0.010*"line" + 0.009*"new"
+Topic: 1 ---- Words: 0.056*"solid" + 0.055*"ethereum" + 0.024*"part" + 0.021*"2" + 0.017*"1" + 0.016*"truffl" + 0.013*"node" + 0.010*"connect" + 0.010*"code" + 0.010*"v"
+Topic: 2 ---- Words: 0.050*"erc20" + 0.035*"ethereum" + 0.027*"token" + 0.016*"updat" + 0.016*"exchang" + 0.014*"introduct" + 0.014*"introduc" + 0.013*"wallet" + 0.011*"blockchain" + 0.011*"truffl"
+Topic: 3 ---- Words: 0.051*"dapp" + 0.049*"ethereum" + 0.048*"truffl" + 0.045*"develop" + 0.030*"build" + 0.027*"solid" + 0.025*"start" + 0.024*"part" + 0.022*"get" + 0.020*"use"
+Topic: 4 ---- Words: 0.032*"truffl" + 0.018*"metamask" + 0.015*"use" + 0.015*"solid" + 0.014*"dapp" + 0.011*"monthli" + 0.010*"make" + 0.009*"migrat" + 0.007*"test" + 0.007*"program"
+Topic: 5 ---- Words: 0.023*"truffl" + 0.021*"basic" + 0.012*"blockchain" + 0.009*"develop" + 0.009*"2018" + 0.009*"idea" + 0.009*"packag" + 0.009*"day" + 0.007*"solid" + 0.006*"come"
+Topic: 6 ---- Words: 0.046*"web3" + 0.020*"truffl" + 0.017*"summit" + 0.010*"dev" + 0.010*"setup" + 0.010*"transfer" + 0.009*"wallet" + 0.008*"ethereum" + 0.007*"user" + 0.007*"deep"
+Topic: 7 ---- Words: 0.055*"truffl" + 0.044*"contract" + 0.039*"smart" + 0.034*"secur" + 0.024*"audit" + 0.012*"white" + 0.012*"report" + 0.011*"design" + 0.010*"creat" + 0.009*"openzeppelin"
+Topic: 8 ---- Words: 0.033*"web" + 0.030*"30" + 0.025*"ethereum" + 0.024*"token" + 0.021*"metamask" + 0.018*"guid" + 0.017*"new" + 0.016*"solid" + 0.014*"develop" + 0.013*"build"
+Topic: 9 ---- Words: 0.020*"part" + 0.014*"token" + 0.014*"program" + 0.011*"web" + 0.010*"verif" + 0.010*"formal" + 0.009*"payment" + 0.008*"ethereum" + 0.008*"1" + 0.007*"3"
+Topic: 10 ---- Words: 0.188*"contract" + 0.164*"smart" + 0.040*"solid" + 0.033*"ethereum" + 0.018*"truffl" + 0.018*"deploy" + 0.018*"part" + 0.015*"test" + 0.013*"first" + 0.012*"develop"
+Topic: 11 ---- Words: 0.037*"solid" + 0.017*"ganach" + 0.014*"librari" + 0.014*"token" + 0.013*"truffl" + 0.013*"new" + 0.012*"revert" + 0.012*"import" + 0.010*"list" + 0.007*"wallet"
+Topic: 12 ---- Words: 0.024*"support" + 0.021*"erc20" + 0.020*"token" + 0.018*"bug" + 0.017*"blockchain" + 0.017*"announc" + 0.016*"bounti" + 0.013*"network" + 0.013*"new" + 0.010*"web3"
+Topic: 13 ---- Words: 0.161*"metamask" + 0.043*"use" + 0.041*"wallet" + 0.033*"token" + 0.014*"guid" + 0.012*"set" + 0.011*"test" + 0.011*"blockchain" + 0.010*"instal" + 0.009*"step"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 15
+
+
+Topic: 0 ---- Words: 0.181*"contract" + 0.162*"smart" + 0.027*"solid" + 0.022*"ethereum" + 0.014*"part" + 0.013*"token" + 0.013*"use" + 0.012*"truffl" + 0.012*"develop" + 0.011*"audit"
+Topic: 1 ---- Words: 0.060*"wallet" + 0.040*"token" + 0.030*"metamask" + 0.026*"ethereum" + 0.025*"erc20" + 0.013*"creat" + 0.012*"standard" + 0.010*"exchang" + 0.009*"secur" + 0.009*"ad"
+Topic: 2 ---- Words: 0.053*"metamask" + 0.024*"token" + 0.020*"beta" + 0.018*"use" + 0.014*"blockchain" + 0.013*"add" + 0.013*"bancor" + 0.009*"day" + 0.009*"radar" + 0.009*"begin"
+Topic: 3 ---- Words: 0.097*"solid" + 0.015*"web3" + 0.013*"write" + 0.012*"librari" + 0.012*"bounti" + 0.011*"program" + 0.011*"chang" + 0.011*"bug" + 0.011*"function" + 0.010*"open"
+Topic: 4 ---- Words: 0.030*"metamask" + 0.026*"ethereum" + 0.026*"test" + 0.024*"solid" + 0.023*"truffl" + 0.022*"node" + 0.022*"set" + 0.015*"connect" + 0.013*"use" + 0.010*"first"
+Topic: 5 ---- Words: 0.068*"erc20" + 0.053*"token" + 0.022*"truffl" + 0.020*"introduc" + 0.014*"rsk" + 0.012*"platform" + 0.011*"list" + 0.011*"payment" + 0.007*"test" + 0.007*"gelitirm"
+Topic: 6 ---- Words: 0.055*"ethereum" + 0.020*"truffl" + 0.017*"solid" + 0.014*"storag" + 0.013*"wallet" + 0.010*"node" + 0.009*"new" + 0.009*"10" + 0.007*"use" + 0.007*"window"
+Topic: 7 ---- Words: 0.040*"metamask" + 0.034*"token" + 0.029*"ethereum" + 0.025*"truffl" + 0.017*"use" + 0.017*"web3" + 0.014*"guid" + 0.008*"summit" + 0.008*"wallet" + 0.008*"sale"
+Topic: 8 ---- Words: 0.071*"web" + 0.049*"30" + 0.026*"metamask" + 0.014*"blockchain" + 0.013*"monthli" + 0.012*"integr" + 0.012*"solid" + 0.011*"part" + 0.010*"channel" + 0.010*"babi"
+Topic: 9 ---- Words: 0.035*"vyper" + 0.028*"truffl" + 0.024*"web3" + 0.019*"white" + 0.018*"announc" + 0.013*"day" + 0.011*"1" + 0.010*"build" + 0.009*"instal" + 0.009*"cream"
+Topic: 10 ---- Words: 0.061*"ethereum" + 0.056*"metamask" + 0.051*"solid" + 0.051*"part" + 0.031*"build" + 0.029*"dapp" + 0.028*"1" + 0.026*"2" + 0.025*"truffl" + 0.022*"tutori"
+Topic: 11 ---- Words: 0.083*"develop" + 0.044*"truffl" + 0.022*"use" + 0.018*"ethereum" + 0.014*"dapp" + 0.013*"test" + 0.013*"guid" + 0.011*"walkthrough" + 0.010*"3" + 0.009*"file"
+Topic: 12 ---- Words: 0.033*"blockchain" + 0.025*"2018" + 0.017*"ethereum" + 0.015*"audit" + 0.015*"network" + 0.011*"verif" + 0.011*"formal" + 0.011*"updat" + 0.011*"report" + 0.011*"summit"
+Topic: 13 ---- Words: 0.083*"truffl" + 0.055*"contract" + 0.048*"smart" + 0.043*"deploy" + 0.017*"network" + 0.010*"secur" + 0.010*"blockchain" + 0.010*"new" + 0.007*"launch" + 0.007*"buy"
+Topic: 14 ---- Words: 0.067*"contract" + 0.051*"smart" + 0.015*"updat" + 0.015*"metamask" + 0.013*"erc20" + 0.012*"write" + 0.009*"secur" + 0.009*"deploy" + 0.008*"wave" + 0.008*"minut"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

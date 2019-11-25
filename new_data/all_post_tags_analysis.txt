@@ -1,0 +1,155 @@
+
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.216*"cryptocurr" + 0.083*"technolog" + 0.060*"ico" + 0.031*"data" + 0.026*"market" + 0.023*"innov" + 0.019*"product" + 0.017*"exchang" + 0.016*"javascript" + 0.014*"entrepreneurship"
+Topic: 1 ---- Words: 0.035*"invest" + 0.033*"smart" + 0.025*"contract" + 0.025*"decentr" + 0.022*"learn" + 0.018*"app" + 0.016*"financ" + 0.016*"game" + 0.013*"machin" + 0.013*"sale"
+Topic: 2 ---- Words: 0.089*"crypto" + 0.070*"develop" + 0.063*"startup" + 0.050*"token" + 0.027*"program" + 0.021*"secur" + 0.021*"softwar" + 0.017*"healthcar" + 0.017*"digit" + 0.016*"ai"
+Topic: 3 ---- Words: 0.496*"blockchain" + 0.025*"fintech" + 0.023*"intellig" + 0.022*"artifici" + 0.019*"design" + 0.014*"ecommerc" + 0.013*"educ" + 0.012*"social" + 0.011*"medium" + 0.010*"commun"
+Topic: 4 ---- Words: 0.139*"bitcoin" + 0.026*"tech" + 0.025*"busi" + 0.023*"news" + 0.020*"trade" + 0.012*"manag" + 0.011*"mobil" + 0.010*"distribut" + 0.009*"ledger" + 0.007*"docker"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 6
+
+
+Topic: 0 ---- Words: 0.067*"token" + 0.048*"invest" + 0.033*"busi" + 0.031*"news" + 0.030*"learn" + 0.025*"exchang" + 0.024*"javascript" + 0.023*"healthcar" + 0.019*"machin" + 0.019*"educ"
+Topic: 1 ---- Words: 0.123*"crypto" + 0.047*"smart" + 0.036*"contract" + 0.034*"innov" + 0.034*"intellig" + 0.032*"artifici" + 0.023*"financ" + 0.023*"game" + 0.021*"ecommerc" + 0.021*"web"
+Topic: 2 ---- Words: 0.087*"startup" + 0.037*"program" + 0.036*"fintech" + 0.035*"tech" + 0.019*"servic" + 0.018*"music" + 0.016*"android" + 0.015*"binanc" + 0.015*"advertis" + 0.014*"react"
+Topic: 3 ---- Words: 0.153*"bitcoin" + 0.100*"technolog" + 0.077*"develop" + 0.073*"ico" + 0.037*"data" + 0.023*"softwar" + 0.021*"app" + 0.016*"entrepreneurship" + 0.015*"scienc" + 0.015*"big"
+Topic: 4 ---- Words: 0.479*"blockchain" + 0.214*"cryptocurr" + 0.026*"market" + 0.024*"decentr" + 0.018*"design" + 0.018*"trade" + 0.015*"ai" + 0.011*"life" + 0.007*"docker" + 0.006*"mine"
+Topic: 5 ---- Words: 0.029*"secur" + 0.028*"product" + 0.023*"digit" + 0.020*"iot" + 0.015*"english" + 0.013*"proof" + 0.012*"comput" + 0.011*"car" + 0.010*"marketplac" + 0.010*"privaci"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 7
+
+
+Topic: 0 ---- Words: 0.058*"smart" + 0.057*"data" + 0.044*"contract" + 0.042*"innov" + 0.034*"product" + 0.028*"digit" + 0.025*"entrepreneurship" + 0.023*"scienc" + 0.022*"big" + 0.020*"updat"
+Topic: 1 ---- Words: 0.587*"blockchain" + 0.099*"crypto" + 0.026*"news" + 0.019*"healthcar" + 0.019*"financ" + 0.015*"servic" + 0.007*"star" + 0.007*"bit" + 0.005*"realiti" + 0.005*"virtual"
+Topic: 2 ---- Words: 0.262*"cryptocurr" + 0.154*"bitcoin" + 0.073*"ico" + 0.023*"secur" + 0.018*"game" + 0.018*"ai" + 0.017*"web" + 0.016*"iot" + 0.014*"social" + 0.014*"wallet"
+Topic: 3 ---- Words: 0.044*"program" + 0.029*"javascript" + 0.023*"educ" + 0.020*"manag" + 0.018*"english" + 0.017*"hyperledg" + 0.012*"marketplac" + 0.012*"self" + 0.011*"eo" + 0.011*"insur"
+Topic: 4 ---- Words: 0.115*"startup" + 0.052*"market" + 0.048*"decentr" + 0.040*"learn" + 0.034*"exchang" + 0.025*"machin" + 0.024*"music" + 0.023*"network" + 0.022*"life" + 0.020*"commun"
+Topic: 5 ---- Words: 0.091*"token" + 0.066*"invest" + 0.049*"fintech" + 0.047*"tech" + 0.045*"busi" + 0.037*"design" + 0.036*"trade" + 0.025*"sale" + 0.019*"economi" + 0.019*"payment"
+Topic: 6 ---- Words: 0.158*"technolog" + 0.122*"develop" + 0.042*"intellig" + 0.040*"artifici" + 0.036*"softwar" + 0.033*"app" + 0.027*"ecommerc" + 0.024*"food" + 0.018*"react" + 0.016*"recip"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 8
+
+
+Topic: 0 ---- Words: 0.048*"intellig" + 0.046*"artifici" + 0.040*"design" + 0.040*"product" + 0.035*"javascript" + 0.033*"financ" + 0.025*"network" + 0.022*"advertis" + 0.020*"react" + 0.018*"open"
+Topic: 1 ---- Words: 0.370*"cryptocurr" + 0.140*"crypto" + 0.045*"market" + 0.039*"innov" + 0.030*"exchang" + 0.022*"food" + 0.018*"internet" + 0.015*"recip" + 0.014*"proof" + 0.014*"thing"
+Topic: 2 ---- Words: 0.137*"ico" + 0.071*"data" + 0.047*"learn" + 0.031*"web" + 0.029*"machin" + 0.028*"scienc" + 0.028*"big" + 0.016*"coin" + 0.015*"strategi" + 0.014*"eo"
+Topic: 3 ---- Words: 0.180*"technolog" + 0.099*"token" + 0.052*"fintech" + 0.052*"decentr" + 0.027*"sale" + 0.022*"binanc" + 0.022*"platform" + 0.021*"mobil" + 0.021*"economi" + 0.020*"cloud"
+Topic: 4 ---- Words: 0.263*"bitcoin" + 0.049*"tech" + 0.032*"digit" + 0.029*"ecommerc" + 0.023*"social" + 0.023*"wallet" + 0.023*"updat" + 0.023*"medium" + 0.019*"chain" + 0.018*"distribut"
+Topic: 5 ---- Words: 0.120*"startup" + 0.068*"invest" + 0.046*"busi" + 0.043*"news" + 0.033*"healthcar" + 0.031*"game" + 0.028*"entrepreneurship" + 0.028*"iot" + 0.023*"life" + 0.022*"android"
+Topic: 6 ---- Words: 0.118*"develop" + 0.058*"smart" + 0.045*"program" + 0.044*"contract" + 0.036*"secur" + 0.035*"softwar" + 0.033*"trade" + 0.032*"app" + 0.023*"servic" + 0.019*"english"
+Topic: 7 ---- Words: 0.660*"blockchain" + 0.020*"ai" + 0.017*"educ" + 0.016*"music" + 0.015*"manag" + 0.009*"self" + 0.009*"partnership" + 0.007*"stream" + 0.006*"cryptographi" + 0.006*"applic"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 9
+
+
+Topic: 0 ---- Words: 0.051*"exchang" + 0.046*"healthcar" + 0.040*"entrepreneurship" + 0.037*"educ" + 0.037*"food" + 0.030*"commun" + 0.028*"economi" + 0.025*"proof" + 0.023*"work" + 0.017*"tutori"
+Topic: 1 ---- Words: 0.151*"startup" + 0.046*"trade" + 0.033*"servic" + 0.029*"wallet" + 0.025*"mobil" + 0.024*"react" + 0.023*"recip" + 0.017*"ethereum" + 0.016*"realiti" + 0.015*"travel"
+Topic: 2 ---- Words: 0.146*"develop" + 0.055*"decentr" + 0.052*"innov" + 0.051*"intellig" + 0.049*"artifici" + 0.044*"secur" + 0.043*"softwar" + 0.031*"web" + 0.027*"music" + 0.023*"platform"
+Topic: 3 ---- Words: 0.377*"cryptocurr" + 0.080*"token" + 0.042*"fintech" + 0.030*"app" + 0.027*"digit" + 0.026*"ai" + 0.023*"iot" + 0.022*"sale" + 0.019*"internet" + 0.017*"hyperledg"
+Topic: 4 ---- Words: 0.074*"smart" + 0.061*"market" + 0.056*"contract" + 0.048*"learn" + 0.043*"product" + 0.037*"javascript" + 0.032*"ecommerc" + 0.030*"machin" + 0.029*"scienc" + 0.026*"social"
+Topic: 5 ---- Words: 0.179*"crypto" + 0.132*"ico" + 0.054*"program" + 0.052*"tech" + 0.046*"news" + 0.041*"design" + 0.025*"network" + 0.017*"python" + 0.013*"eo" + 0.013*"star"
+Topic: 6 ---- Words: 0.207*"technolog" + 0.056*"busi" + 0.038*"game" + 0.028*"life" + 0.023*"cloud" + 0.023*"research" + 0.017*"googl" + 0.016*"engin" + 0.015*"lesson" + 0.012*"cybersecur"
+Topic: 7 ---- Words: 0.717*"blockchain" + 0.016*"updat" + 0.016*"manag" + 0.015*"android" + 0.015*"english" + 0.011*"car" + 0.008*"stake" + 0.008*"career" + 0.007*"progress" + 0.007*"leadership"
+Topic: 8 ---- Words: 0.286*"bitcoin" + 0.074*"invest" + 0.070*"data" + 0.035*"financ" + 0.027*"big" + 0.021*"payment" + 0.020*"distribut" + 0.018*"ledger" + 0.017*"econom" + 0.015*"self"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 10
+
+
+Topic: 0 ---- Words: 0.091*"invest" + 0.088*"smart" + 0.068*"program" + 0.067*"contract" + 0.063*"innov" + 0.062*"intellig" + 0.059*"artifici" + 0.053*"softwar" + 0.041*"ai" + 0.030*"manag"
+Topic: 1 ---- Words: 0.176*"develop" + 0.061*"busi" + 0.047*"app" + 0.038*"web" + 0.034*"servic" + 0.027*"platform" + 0.026*"hyperledg" + 0.025*"chain" + 0.020*"suppli" + 0.019*"coin"
+Topic: 2 ---- Words: 0.223*"crypto" + 0.066*"fintech" + 0.056*"learn" + 0.044*"javascript" + 0.038*"ecommerc" + 0.035*"machin" + 0.035*"educ" + 0.027*"commun" + 0.019*"car" + 0.019*"ux"
+Topic: 3 ---- Words: 0.150*"ico" + 0.031*"food" + 0.031*"sale" + 0.029*"music" + 0.028*"social" + 0.027*"updat" + 0.027*"medium" + 0.026*"internet" + 0.021*"open" + 0.020*"thing"
+Topic: 4 ---- Words: 0.079*"market" + 0.057*"design" + 0.056*"product" + 0.048*"healthcar" + 0.047*"financ" + 0.046*"game" + 0.041*"entrepreneurship" + 0.031*"advertis" + 0.029*"economi" + 0.025*"proof"
+Topic: 5 ---- Words: 0.673*"blockchain" + 0.176*"bitcoin" + 0.009*"bounti" + 0.008*"money" + 0.007*"govern" + 0.006*"cultur" + 0.004*"ipf" + 0.004*"foundat" + 0.004*"restaur" + 0.003*"weekli"
+Topic: 6 ---- Words: 0.071*"decentr" + 0.062*"news" + 0.051*"exchang" + 0.039*"iot" + 0.036*"scienc" + 0.033*"wallet" + 0.029*"mobil" + 0.028*"cloud" + 0.023*"comput" + 0.020*"googl"
+Topic: 7 ---- Words: 0.179*"technolog" + 0.125*"startup" + 0.098*"token" + 0.051*"tech" + 0.042*"secur" + 0.025*"network" + 0.024*"life" + 0.020*"research" + 0.019*"recip" + 0.013*"bank"
+Topic: 8 ---- Words: 0.140*"data" + 0.055*"big" + 0.047*"android" + 0.033*"econom" + 0.029*"facebook" + 0.025*"citi" + 0.023*"capit" + 0.022*"api" + 0.021*"mainnet" + 0.020*"aw"
+Topic: 9 ---- Words: 0.514*"cryptocurr" + 0.042*"trade" + 0.036*"digit" + 0.024*"binanc" + 0.022*"payment" + 0.021*"distribut" + 0.019*"ledger" + 0.016*"self" + 0.013*"enterpris" + 0.012*"cybersecur"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 11
+
+
+Topic: 0 ---- Words: 0.280*"crypto" + 0.054*"healthcar" + 0.046*"iot" + 0.041*"music" + 0.031*"chain" + 0.030*"distribut" + 0.027*"ledger" + 0.025*"suppli" + 0.023*"strategi" + 0.021*"bank"
+Topic: 1 ---- Words: 0.165*"invest" + 0.055*"manag" + 0.052*"android" + 0.050*"binanc" + 0.035*"marketplac" + 0.035*"ux" + 0.032*"partnership" + 0.028*"code" + 0.025*"capit" + 0.022*"applic"
+Topic: 2 ---- Words: 0.548*"cryptocurr" + 0.044*"exchang" + 0.039*"digit" + 0.034*"entrepreneurship" + 0.026*"advertis" + 0.020*"python" + 0.017*"googl" + 0.017*"self" + 0.015*"eo" + 0.013*"cybersecur"
+Topic: 3 ---- Words: 0.165*"ico" + 0.085*"data" + 0.071*"market" + 0.061*"busi" + 0.051*"product" + 0.044*"javascript" + 0.034*"scienc" + 0.033*"big" + 0.024*"recip" + 0.020*"econom"
+Topic: 4 ---- Words: 0.747*"blockchain" + 0.090*"startup" + 0.035*"innov" + 0.015*"hyperledg" + 0.008*"fabric" + 0.004*"law" + 0.004*"foundat" + 0.004*"report" + 0.004*"valley" + 0.004*"silicon"
+Topic: 5 ---- Words: 0.076*"decentr" + 0.074*"tech" + 0.066*"news" + 0.061*"secur" + 0.035*"wallet" + 0.033*"internet" + 0.029*"research" + 0.026*"thing" + 0.021*"docker" + 0.021*"ethereum"
+Topic: 6 ---- Words: 0.198*"develop" + 0.059*"softwar" + 0.053*"app" + 0.043*"web" + 0.039*"food" + 0.035*"life" + 0.034*"updat" + 0.022*"coin" + 0.019*"bounti" + 0.017*"hack"
+Topic: 7 ---- Words: 0.075*"trade" + 0.053*"servic" + 0.041*"mobil" + 0.039*"cloud" + 0.033*"comput" + 0.023*"event" + 0.020*"api" + 0.019*"featur" + 0.019*"cultur" + 0.018*"aw"
+Topic: 8 ---- Words: 0.201*"technolog" + 0.110*"token" + 0.076*"smart" + 0.058*"contract" + 0.045*"design" + 0.034*"ecommerc" + 0.030*"sale" + 0.028*"network" + 0.024*"commun" + 0.023*"economi"
+Topic: 9 ---- Words: 0.081*"learn" + 0.060*"financ" + 0.060*"game" + 0.050*"machin" + 0.050*"educ" + 0.044*"social" + 0.043*"medium" + 0.037*"react" + 0.037*"payment" + 0.028*"car"
+Topic: 10 ---- Words: 0.322*"bitcoin" + 0.062*"program" + 0.061*"fintech" + 0.057*"intellig" + 0.054*"artifici" + 0.038*"ai" + 0.025*"platform" + 0.021*"open" + 0.021*"proof" + 0.020*"work"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 12
+
+
+Topic: 0 ---- Words: 0.107*"invest" + 0.074*"innov" + 0.058*"trade" + 0.051*"healthcar" + 0.048*"ai" + 0.039*"big" + 0.039*"music" + 0.028*"distribut" + 0.027*"proof" + 0.025*"work"
+Topic: 1 ---- Words: 0.286*"technolog" + 0.109*"smart" + 0.083*"contract" + 0.077*"intellig" + 0.073*"artifici" + 0.046*"iot" + 0.038*"manag" + 0.022*"partnership" + 0.019*"enterpris" + 0.012*"content"
+Topic: 2 ---- Words: 0.117*"app" + 0.092*"entrepreneurship" + 0.079*"network" + 0.048*"car" + 0.041*"bank" + 0.034*"nodej" + 0.026*"io" + 0.021*"drive" + 0.019*"law" + 0.019*"polkadot"
+Topic: 3 ---- Words: 0.249*"startup" + 0.105*"program" + 0.104*"fintech" + 0.047*"updat" + 0.030*"coin" + 0.021*"progress" + 0.017*"write" + 0.017*"health" + 0.015*"blog" + 0.012*"transact"
+Topic: 4 ---- Words: 0.103*"news" + 0.085*"exchang" + 0.079*"javascript" + 0.049*"platform" + 0.046*"cloud" + 0.042*"open" + 0.033*"googl" + 0.030*"sourc" + 0.027*"event" + 0.025*"stake"
+Topic: 5 ---- Words: 0.112*"decentr" + 0.052*"life" + 0.044*"research" + 0.031*"privaci" + 0.031*"docker" + 0.029*"realiti" + 0.028*"lesson" + 0.027*"insur" + 0.023*"cybersecur" + 0.023*"onlin"
+Topic: 6 ---- Words: 0.520*"cryptocurr" + 0.057*"tech" + 0.054*"busi" + 0.049*"learn" + 0.037*"game" + 0.031*"machin" + 0.031*"educ" + 0.016*"strategi" + 0.014*"eo" + 0.012*"leadership"
+Topic: 7 ---- Words: 0.200*"develop" + 0.060*"secur" + 0.059*"softwar" + 0.048*"digit" + 0.043*"web" + 0.039*"servic" + 0.039*"food" + 0.031*"advertis" + 0.029*"payment" + 0.025*"comput"
+Topic: 8 ---- Words: 0.758*"blockchain" + 0.095*"ico" + 0.015*"economi" + 0.010*"bounti" + 0.009*"citi" + 0.008*"career" + 0.006*"best" + 0.006*"share" + 0.004*"foundat" + 0.003*"firebas"
+Topic: 9 ---- Words: 0.077*"design" + 0.077*"product" + 0.044*"internet" + 0.042*"binanc" + 0.038*"chain" + 0.034*"thing" + 0.031*"suppli" + 0.031*"econom" + 0.029*"marketplac" + 0.029*"ux"
+Topic: 10 ---- Words: 0.110*"market" + 0.065*"financ" + 0.047*"wallet" + 0.044*"android" + 0.041*"mobil" + 0.040*"hyperledg" + 0.040*"react" + 0.033*"python" + 0.028*"ethereum" + 0.025*"travel"
+Topic: 11 ---- Words: 0.280*"bitcoin" + 0.181*"crypto" + 0.101*"token" + 0.069*"data" + 0.031*"ecommerc" + 0.028*"sale" + 0.027*"scienc" + 0.025*"social" + 0.024*"medium" + 0.022*"commun"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 13
+
+
+Topic: 0 ---- Words: 0.143*"smart" + 0.140*"data" + 0.109*"contract" + 0.055*"big" + 0.025*"citi" + 0.023*"capit" + 0.022*"reward" + 0.021*"cryptographi" + 0.019*"golang" + 0.019*"analyt"
+Topic: 1 ---- Words: 0.307*"technolog" + 0.096*"market" + 0.052*"ecommerc" + 0.037*"platform" + 0.027*"econom" + 0.026*"car" + 0.024*"self" + 0.023*"airdrop" + 0.020*"event" + 0.020*"enterpris"
+Topic: 2 ---- Words: 0.800*"blockchain" + 0.034*"learn" + 0.030*"trade" + 0.021*"machin" + 0.017*"binanc" + 0.016*"mobil" + 0.008*"career" + 0.007*"dex" + 0.005*"day" + 0.005*"stellar"
+Topic: 3 ---- Words: 0.199*"startup" + 0.054*"healthcar" + 0.046*"entrepreneurship" + 0.044*"educ" + 0.043*"food" + 0.040*"network" + 0.038*"life" + 0.036*"android" + 0.032*"cloud" + 0.027*"comput"
+Topic: 4 ---- Words: 0.105*"program" + 0.096*"intellig" + 0.091*"artifici" + 0.080*"design" + 0.053*"scienc" + 0.040*"react" + 0.036*"proof" + 0.029*"privaci" + 0.026*"bank" + 0.026*"eo"
+Topic: 5 ---- Words: 0.051*"updat" + 0.051*"manag" + 0.047*"commun" + 0.045*"hyperledg" + 0.043*"payment" + 0.043*"chain" + 0.041*"distribut" + 0.036*"ledger" + 0.035*"suppli" + 0.029*"bounti"
+Topic: 6 ---- Words: 0.668*"cryptocurr" + 0.065*"news" + 0.054*"exchang" + 0.020*"partnership" + 0.014*"cultur" + 0.011*"blog" + 0.010*"kyc" + 0.008*"iota" + 0.007*"java" + 0.006*"john"
+Topic: 7 ---- Words: 0.360*"bitcoin" + 0.068*"decentr" + 0.067*"tech" + 0.063*"busi" + 0.053*"product" + 0.053*"develop" + 0.049*"app" + 0.039*"web" + 0.019*"docker" + 0.019*"strategi"
+Topic: 8 ---- Words: 0.078*"social" + 0.076*"medium" + 0.054*"work" + 0.053*"python" + 0.044*"engin" + 0.043*"realiti" + 0.034*"api" + 0.033*"futur" + 0.031*"featur" + 0.030*"project"
+Topic: 9 ---- Words: 0.114*"javascript" + 0.089*"servic" + 0.079*"wallet" + 0.076*"internet" + 0.058*"thing" + 0.047*"ethereum" + 0.024*"list" + 0.022*"skycoin" + 0.020*"telegram" + 0.019*"amazon"
+Topic: 10 ---- Words: 0.167*"token" + 0.083*"innov" + 0.071*"secur" + 0.056*"digit" + 0.054*"ai" + 0.046*"sale" + 0.043*"music" + 0.037*"advertis" + 0.034*"research" + 0.031*"open"
+Topic: 11 ---- Words: 0.265*"crypto" + 0.148*"develop" + 0.106*"invest" + 0.061*"softwar" + 0.049*"game" + 0.043*"iot" + 0.031*"economi" + 0.018*"hack" + 0.018*"code" + 0.015*"video"
+Topic: 12 ---- Words: 0.315*"ico" + 0.126*"fintech" + 0.080*"financ" + 0.045*"recip" + 0.033*"mine" + 0.022*"influenc" + 0.021*"best" + 0.020*"write" + 0.020*"chocol" + 0.018*"stori"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 14
+
+
+Topic: 0 ---- Words: 0.206*"invest" + 0.100*"javascript" + 0.053*"open" + 0.046*"econom" + 0.043*"ux" + 0.042*"privaci" + 0.040*"engin" + 0.039*"realiti" + 0.039*"sourc" + 0.026*"virtual"
+Topic: 1 ---- Words: 0.328*"technolog" + 0.096*"fintech" + 0.062*"healthcar" + 0.060*"game" + 0.059*"ai" + 0.039*"mobil" + 0.038*"hyperledg" + 0.021*"fabric" + 0.018*"video" + 0.015*"incom"
+Topic: 2 ---- Words: 0.121*"news" + 0.111*"secur" + 0.088*"digit" + 0.072*"food" + 0.058*"advertis" + 0.036*"airdrop" + 0.032*"citi" + 0.029*"career" + 0.029*"capit" + 0.027*"cryptographi"
+Topic: 3 ---- Words: 0.246*"develop" + 0.119*"data" + 0.094*"program" + 0.071*"design" + 0.066*"app" + 0.048*"scienc" + 0.040*"android" + 0.027*"car" + 0.019*"cybersecur" + 0.015*"human"
+Topic: 4 ---- Words: 0.197*"ico" + 0.073*"intellig" + 0.073*"busi" + 0.069*"artifici" + 0.050*"financ" + 0.044*"iot" + 0.037*"social" + 0.036*"updat" + 0.035*"medium" + 0.035*"internet"
+Topic: 5 ---- Words: 0.135*"market" + 0.125*"decentr" + 0.065*"servic" + 0.052*"binanc" + 0.040*"work" + 0.033*"facebook" + 0.031*"bank" + 0.025*"onlin" + 0.025*"futur" + 0.022*"dex"
+Topic: 6 ---- Words: 0.199*"token" + 0.138*"smart" + 0.105*"contract" + 0.076*"exchang" + 0.055*"sale" + 0.049*"wallet" + 0.042*"economi" + 0.027*"partnership" + 0.026*"eo" + 0.025*"tutori"
+Topic: 7 ---- Words: 0.702*"blockchain" + 0.184*"bitcoin" + 0.033*"innov" + 0.020*"web" + 0.010*"ethereum" + 0.003*"industri" + 0.002*"psycholog" + 0.001*"cs" + 0.001*"ibm" + 0.001*"medicin"
+Topic: 8 ---- Words: 0.086*"commun" + 0.085*"platform" + 0.080*"react" + 0.048*"code" + 0.042*"leadership" + 0.041*"mainnet" + 0.036*"influenc" + 0.035*"review" + 0.035*"polit" + 0.030*"engag"
+Topic: 9 ---- Words: 0.685*"cryptocurr" + 0.059*"product" + 0.039*"big" + 0.038*"music" + 0.022*"coin" + 0.016*"stream" + 0.016*"reward" + 0.006*"appl" + 0.006*"nyc" + 0.005*"live"
+Topic: 10 ---- Words: 0.092*"ecommerc" + 0.089*"entrepreneurship" + 0.074*"life" + 0.062*"cloud" + 0.052*"comput" + 0.044*"docker" + 0.039*"lesson" + 0.038*"travel" + 0.026*"write" + 0.026*"health"
+Topic: 11 ---- Words: 0.126*"trade" + 0.090*"educ" + 0.059*"proof" + 0.043*"money" + 0.040*"hack" + 0.036*"stake" + 0.035*"nodej" + 0.029*"consensu" + 0.026*"content" + 0.025*"knowledg"
+Topic: 12 ---- Words: 0.285*"crypto" + 0.202*"startup" + 0.082*"tech" + 0.040*"network" + 0.038*"manag" + 0.027*"python" + 0.023*"self" + 0.022*"bounti" + 0.019*"enterpris" + 0.017*"govern"
+Topic: 13 ---- Words: 0.124*"learn" + 0.115*"softwar" + 0.078*"machin" + 0.056*"payment" + 0.056*"chain" + 0.053*"distribut" + 0.047*"ledger" + 0.045*"suppli" + 0.039*"mine" + 0.027*"system"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 15
+
+
+Topic: 0 ---- Words: 0.422*"technolog" + 0.123*"fintech" + 0.077*"game" + 0.051*"binanc" + 0.028*"enterpris" + 0.025*"api" + 0.024*"futur" + 0.022*"dex" + 0.017*"protocol" + 0.009*"gener"
+Topic: 1 ---- Words: 0.599*"bitcoin" + 0.066*"ecommerc" + 0.049*"android" + 0.029*"airdrop" + 0.029*"money" + 0.019*"best" + 0.016*"stori" + 0.014*"meetup" + 0.010*"freelanc" + 0.010*"real"
+Topic: 2 ---- Words: 0.295*"develop" + 0.087*"softwar" + 0.079*"app" + 0.063*"web" + 0.058*"servic" + 0.051*"wallet" + 0.025*"fabric" + 0.020*"applic" + 0.019*"interview" + 0.018*"io"
+Topic: 3 ---- Words: 0.170*"tech" + 0.090*"food" + 0.081*"life" + 0.078*"manag" + 0.056*"work" + 0.048*"privaci" + 0.045*"partnership" + 0.043*"lesson" + 0.043*"eo" + 0.037*"career"
+Topic: 4 ---- Words: 0.246*"startup" + 0.110*"market" + 0.087*"learn" + 0.076*"trade" + 0.067*"healthcar" + 0.054*"machin" + 0.039*"payment" + 0.027*"bounti" + 0.024*"hack" + 0.021*"reward"
+Topic: 5 ---- Words: 0.331*"crypto" + 0.244*"ico" + 0.085*"news" + 0.065*"javascript" + 0.028*"ux" + 0.024*"bank" + 0.023*"citi" + 0.015*"bot" + 0.013*"job" + 0.011*"truffl"
+Topic: 6 ---- Words: 0.116*"decentr" + 0.110*"innov" + 0.093*"secur" + 0.060*"token" + 0.060*"sale" + 0.056*"network" + 0.053*"updat" + 0.044*"chain" + 0.036*"suppli" + 0.024*"cybersecur"
+Topic: 7 ---- Words: 0.139*"token" + 0.133*"smart" + 0.102*"contract" + 0.063*"ai" + 0.050*"music" + 0.047*"social" + 0.046*"medium" + 0.042*"platform" + 0.040*"economi" + 0.027*"facebook"
+Topic: 8 ---- Words: 0.098*"digit" + 0.082*"educ" + 0.064*"advertis" + 0.063*"mobil" + 0.049*"python" + 0.045*"coin" + 0.042*"docker" + 0.041*"mine" + 0.037*"tutori" + 0.032*"capit"
+Topic: 9 ---- Words: 0.602*"cryptocurr" + 0.062*"intellig" + 0.059*"artifici" + 0.052*"design" + 0.043*"financ" + 0.026*"research" + 0.021*"econom" + 0.011*"write" + 0.008*"test" + 0.008*"user"
+Topic: 10 ---- Words: 0.166*"data" + 0.066*"scienc" + 0.065*"big" + 0.051*"hyperledg" + 0.050*"cloud" + 0.050*"react" + 0.047*"distribut" + 0.042*"comput" + 0.042*"ledger" + 0.036*"googl"
+Topic: 11 ---- Words: 0.204*"program" + 0.111*"iot" + 0.083*"commun" + 0.048*"travel" + 0.035*"golang" + 0.034*"node" + 0.029*"engag" + 0.029*"blog" + 0.027*"kyc" + 0.023*"crowdfund"
+Topic: 12 ---- Words: 0.146*"busi" + 0.121*"product" + 0.088*"entrepreneurship" + 0.070*"internet" + 0.053*"thing" + 0.043*"strategi" + 0.042*"engin" + 0.033*"nodej" + 0.027*"consensu" + 0.026*"black"
+Topic: 13 ---- Words: 0.878*"blockchain" + 0.031*"exchang" + 0.013*"car" + 0.012*"ethereum" + 0.005*"transact" + 0.005*"iota" + 0.004*"firebas" + 0.002*"de" + 0.001*"price" + 0.001*"bancor"
+Topic: 14 ---- Words: 0.225*"invest" + 0.058*"open" + 0.057*"proof" + 0.042*"sourc" + 0.035*"stake" + 0.034*"leadership" + 0.031*"cultur" + 0.028*"review" + 0.025*"incom" + 0.025*"confer"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
