@@ -69,7 +69,8 @@ def vulnerability_freq(data, word_list):
     for i in word_list:
         count = 0
         for key in data:
-            if i in key['content'] or i in key['title'].lower() or i in key['tags']:
+            # do not use key['content'].lower() if search for "DoS"
+            if i in key['content'].lower() or i in key['title'].lower() or i in key['tags']:
                 count += 1
                 # print(key['title'])
         vuln_count_list.append(count)
