@@ -1,23 +1,34 @@
+"""
+This program integrates all the relevant posts from
+JSON files for each keyword. We check relevancy by searching
+the keyword either in title or in tag. The program also
+prints the number of relevant items from each individual file.
+
+Author : Shanto Roy
+Year : 2019
+"""
+
 import json
 final_count = 0
 final_json_data = []
 
-file_name_list = ["smart-contract.json", "metamask.json",
+file_name_list = ["smart-contract.json", "smart-contracts.json", "metamask.json",
                       "solidity.json", "vyper.json",
-                      "truffle.json", "web3.json", "erc20.json"]
-tag_list = ["smart contracts", "metamask", "solidity", "vyper",
-                "truffle", "web3", "erc20"]
+                      "truffle.json", "web3.json", "erc20.json", "security.json"]
+tag_list = ["smart contracts", "smart contract", "metamask", "solidity", "vyper",
+                "truffle", "web3", "erc20", "security"]
 
 for file_name, tag in zip(file_name_list, tag_list):
 
     count = 0
     json_data = json.load(open("post_data/"+file_name))
 
+    # Check if posts are relevant by checking tags in title or tag
     for key in json_data:
         tags = key['tags']
         titles = key['title']
 
-        if tag in key['title']:
+        if tag in key['title'].lower():
             final_json_data.append(key)
             count += 1
         else:
@@ -29,7 +40,7 @@ for file_name, tag in zip(file_name_list, tag_list):
     print("Number of total post for ", tag, "is =", count)
 
 # Output the updated file with pretty JSON
-open("post_data/related_all_post_data_without_ethereum.json", "w").write(
+open("integrated_all_post_data.json", "w").write(
         json.dumps(final_json_data, sort_keys=True, indent=4, separators=(',', ': '))
     )
 
