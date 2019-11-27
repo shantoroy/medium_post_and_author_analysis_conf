@@ -13,11 +13,11 @@ def page_info(link):
         driver = webdriver.Chrome(CHROME_DRIVER_PATH)
         url = link
         driver.get(url)
-        scrolls = 4
+        scrolls = 2
         while scrolls > 0:
             driver.execute_script(
                 "window.scrollTo(0, document.body.scrollHeight-1000);")
-            time.sleep(2)
+            time.sleep(1)
             scrolls -= 1
         time.sleep(1)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -145,7 +145,7 @@ def final_data_collection(final_author_links):
 
 if __name__ == '__main__':
     author_links = []
-    with open("related_data_rm_duplicacy_conf_final_2.json", "r") as f:
+    with open("../related_data_rm_duplicacy.json", "r") as f:
         author_data = json.load(f)
     for key in author_data:
         author_links.append(key['author_link'])
@@ -155,5 +155,5 @@ if __name__ == '__main__':
     print(len(author_links_unique))
 
     final_data = final_data_collection(author_links_unique)
-    with open("author_info_final_paper_2.json", 'w') as fp:
+    with open("author_info.json", 'w') as fp:
         json.dump(final_data, fp)
