@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64293061-48f7-4731-9392-e1a2f9b9fad8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/conference_medium_data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/conference_medium_data.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_post_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/all_post_integration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_data/related_all_post_data_without_ethereum.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_duplicate_items_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/remove_duplicate_items_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/post_analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medium_post_scrape_json/.idea/medium_post_scrape_json.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../medium_post_scrape_json/.idea/medium_post_scrape_json.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medium_post_scrape_json/all_post_contents_ethereum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../medium_post_scrape_json/all_post_contents_ethereum.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../medium_post_scrape_json/all_post_integration.py" beforeDir="false" afterPath="$PROJECT_DIR$/../medium_post_scrape_json/all_post_integration.py" afterDir="false" />
@@ -75,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568981195521</updated>
-      <workItem from="1574705742714" duration="6461000" />
+      <workItem from="1574705742714" duration="7149000" />
     </task>
     <servers />
   </component>
