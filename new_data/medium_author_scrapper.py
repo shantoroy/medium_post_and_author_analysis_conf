@@ -13,7 +13,7 @@ def page_info(link):
         driver = webdriver.Chrome(CHROME_DRIVER_PATH)
         url = link
         driver.get(url)
-        scrolls = 2
+        scrolls = 10
         while scrolls > 0:
             driver.execute_script(
                 "window.scrollTo(0, document.body.scrollHeight-1000);")
